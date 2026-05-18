@@ -1,0 +1,44 @@
+TODO — Lascano-Azares Dental Clinic Ab Landing Page
+Generated: 2026-05-18
+Layout: Layout 3 — Trust-First Professional
+========================================
+
+CRITICAL (blocks launch)
+------------------------
+[ ] Configure DNS for lascano-azares-dental-clinic-ab.vikaph.com (add CNAME record to cname.vercel-dns.com)
+[ ] Fill in phone number in contact section and utility bar
+
+CONTENT (needs real copy or data)
+----------------------------------
+[ ] Phone number: [FILL IN] - replace "-" with actual phone number
+[ ] Payment methods: [FILL IN] - update FAQ section
+[ ] Insurance acceptance: [FILL IN] - update FAQ section
+
+IMAGES
+-------
+[ ] Images downloaded from Unsplash (fallback - consider replacing with actual business photos)
+[ ] Hero: images/hero.jpg (dental clinic interior)
+[ ] About: images/about.jpg (dental equipment)
+[ ] Gallery: images/gallery/01.jpg through 04.jpg (dental-related images)
+
+SEO
+----
+[ ] All meta tags populated
+[ ] LocalBusiness JSON-LD structured data added
+[ ] Google Maps embed with Place ID included
+
+DEPLOYMENT
+----------
+[ ] Vercel deployment successful: https://lascano-azares-dental-clinic-95qjn3xv9.vercel.app
+[ ] Custom subdomain configured: lascano-azares-dental-clinic-ab.vikaph.com (DNS pending)
+[ ] GitHub repository: https://github.com/gabconcepcionph/lascano-azares-dental-clinic-ab
+
+ALL DONE ✓
+-----------
+[✓] Project folder created
+[✓] index.html generated with Layout 3 structure
+[✓] Images downloaded
+[✓] Git initialized
+[✓] GitHub repository created
+[✓] Vercel deployed
+[✓] Trello card updated to For Testing
