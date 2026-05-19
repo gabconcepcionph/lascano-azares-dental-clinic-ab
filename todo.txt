@@ -6,11 +6,11 @@ Layout: Layout 3 — Trust-First Professional
 CRITICAL (blocks launch)
 ------------------------
 [ ] Configure DNS for lascano-azares-dental-clinic-ab.vikaph.com (add CNAME record to cname.vercel-dns.com)
-[ ] Fill in phone number in contact section and utility bar
+[✓] Fill in phone number in contact section and utility bar - (046) 471 1102
 
 CONTENT (needs real copy or data)
 ----------------------------------
-[ ] Phone number: [FILL IN] - replace "-" with actual phone number
+[✓] Phone number: (046) 471 1102 - filled in
 [ ] Payment methods: [FILL IN] - update FAQ section
 [ ] Insurance acceptance: [FILL IN] - update FAQ section
 
